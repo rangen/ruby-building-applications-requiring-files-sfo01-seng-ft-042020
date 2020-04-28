@@ -24,7 +24,7 @@ class Plant
 
   def self.all
     @@all
-  end
+   end
 end
 
 lawn = Garden.new(name: 'Front Lawn')
